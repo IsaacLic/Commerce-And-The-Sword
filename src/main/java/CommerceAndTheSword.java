@@ -1,5 +1,4 @@
 //Isaac Lichter
-package commerceandthesword;
 
 public class CommerceAndTheSword {
     

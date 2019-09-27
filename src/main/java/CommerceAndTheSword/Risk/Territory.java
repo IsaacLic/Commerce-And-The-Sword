@@ -1,4 +1,4 @@
-//Isaac Lichter
+package CommerceAndTheSword.Risk;//Isaac Lichter
 
 public interface Territory {
     

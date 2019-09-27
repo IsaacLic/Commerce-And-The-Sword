@@ -1,3 +1,8 @@
+package CommerceAndTheSword;
+
+import CommerceAndTheSword.Monopoly.Property;
+import CommerceAndTheSword.Monopoly.PropertyType;
+
 import java.util.HashMap;
 
 public class Player {
@@ -8,6 +13,7 @@ public class Player {
 
     public int getPropertyCountOfType(PropertyType type) {
         //TODO
+        return 0;
     }
 
     public int getMoney() {

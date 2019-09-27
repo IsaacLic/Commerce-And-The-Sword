@@ -1,3 +1,5 @@
+package CommerceAndTheSword.Monopoly;
+
 public enum PropertyType {
     
     TECHNOLOGY("Department of Technology"), JUSTICE("Department of Justice"), PROPAGANDA("Program for Propaganda"),

@@ -1,6 +1,6 @@
-//Isaac Lichter
+package CommerceAndTheSword;//Isaac Lichter
 
-public class CommerceAndTheSword {
+public class Main {
     
     public static void main(String[] args) {
 
